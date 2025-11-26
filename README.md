@@ -1,5 +1,7 @@
 # 💫 About Me:
-My personal project<br>works<br>others<br>Artificial Neural Networks<br>Machine Learning<br>-
+Highly motivated undergraduate currently pursuing a Bachelor of Artificial Intelligence (AI) from Dawood University of Engineering and Technology. My passion for the field led me to establish a strong foundational understanding of AI concepts and principles prior to starting my formal studies. I am strategically developing skills to excel as a Data Analyst, focusing on transforming complex data into clear, actionable insights.
+
+My core technical expertise includes Machine Learning Fundamentals with specialized knowledge in Supervised and Unsupervised Learning, as well as comprehensive Data Analysis proficiency. I am proficient in Data Visualization, leveraging tools like Matplotlib and Seaborn to communicate findings effectively. Eager to apply this blend of AI knowledge and analytical capability in a dynamic professional environment
 
 
 ## 🌐 Socials:
