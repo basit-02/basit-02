@@ -13,7 +13,7 @@ I am a highly motivated undergraduate pursuing a Bachelor of Artificial Intellig
 ## 🌐 Connect with Me:
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-basit-memon-a1a24921a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-<a href="mailto:mbasit0202@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+<a href="mailto:mbasit0202@gmail.com"><img align="center" src="https://www.theverge.com/2020/10/6/21503835/gmail-new-logo-design-google-workspace-features" alt="Gmail" /></a>
 </p>
 
 ---
