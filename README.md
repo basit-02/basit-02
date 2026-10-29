@@ -1,22 +1,22 @@
-# Hi there, I'm Muhammad Basit Memon 👋
+# Hi there, I'm Muhammad Basit Memon
 
 <h3 align="left">Transforming complex data into actionable insights and building real-world AI solutions.</h3>
 
 I am a highly motivated undergraduate pursuing a Bachelor of Artificial Intelligence (AI) at **Dawood University of Engineering and Technology**. While I have a strong foundation in Data Analytics and visualization, my true passion lies in developing robust Machine Learning and Computer Vision solutions. 
 
 **What I'm currently up to:**
-- 🔭 Working on my Final Year Project: A comprehensive **Deepfake Video Detection System**.
-- 💼 Recently completed an 8-week **Machine Learning Internship at Arch Technologies**.
-- 👁️ Building and optimizing object detection models using **YOLO (v5 & v8)** for industrial safety (e.g., automated helmet detection).
-- 🏆 Actively participating in hackathons and competitive programming challenges.
+- Working on my Final Year Project: A comprehensive **Deepfake Video Detection System**.
+- Recently completed an 8-week **Machine Learning Internship at Arch Technologies**.
+- Building and optimizing object detection models using **YOLO (v5 & v8)** for industrial safety (e.g., automated helmet detection).
+- Actively participating in hackathons and competitive programming challenges.
 
-## 🌐 Connect with Me:
+## Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/muhammad-basit-memon-a1a24921a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=mbasit0202@gmail.com)
 
 ---
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
 **Languages**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
@@ -32,14 +32,14 @@ I am a highly motivated undergraduate pursuing a Bachelor of Artificial Intellig
 
 ---
 
-## 📊 GitHub Stats & Activity
+## GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basit-02&theme=gruvbox" alt="GitHub Stats" />
 </div>
 <br>
 
-### 🏆 Trophies
+### Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=basit-02&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4" alt="Trophies" />
 </div>
